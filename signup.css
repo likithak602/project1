@@ -1,0 +1,28 @@
+#al{
+    background-color: rgba(12, 140, 232, 0.928);
+    color:white;
+    border-radius: 5px;
+    width:250px;
+    height:30px;
+}
+
+.a{
+    font-size: 15px;
+    width:250px;
+}
+
+.b{
+    font-size: 17px;
+    width:300px;
+    text-decoration: none;
+}
+
+.i{
+    text-decoration: none;
+    color:rgba(12, 140, 232, 0.928)
+}
+
+.p{
+    text-decoration: none;
+    color: #000;
+}
